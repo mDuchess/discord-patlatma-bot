@@ -3,10 +3,10 @@ sizlere discord sunucularını **User Token** ile patlatabileceğiniz bir altyap
 \`botConfig.json\` dosyasını eksiksik doldurmanız gerekiyor.
 
 ```
-  "token": "", kullanıcının tokenini girin
+  "token": "MTIOMDcwOTIONZI3MZEOMDMX0Q.GUy_Ks.ycVgX6VzmrwzeYY5oTr7k6yy008cT2tNVymRSo", kullanıcının tokenini girin
     "prefix": ".", prefix girin
     "color": "AAAA", embed mesajı için renk seçeneği ellemenize gerek yok
-    "reason": "" denetim kaydında gözükcek sebepler için
+    "reason": "Chwam Babaya Saygı Duyun" denetim kaydında gözükcek sebepler için
 ```
 
 
